@@ -1,2 +1,3 @@
 # disk_structural_modelling
-Structural modelling code used in Tsukui+26
+The structural modelling code used in Tsukui+26, to be made public upon publication.
+Currently password protected with the the manuscript number. 
